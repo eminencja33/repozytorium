@@ -1,0 +1,2 @@
+# repozytorium
+moje repozytorium lala
