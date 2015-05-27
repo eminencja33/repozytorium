@@ -9,7 +9,7 @@ int main()
 
   int *x;
 printf("pierwsza zmiana");
- 
+printf("druga zmiana"); 
  
   x=NULL;
  
