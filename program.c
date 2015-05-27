@@ -11,6 +11,7 @@ int main()
 printf("pierwsza zmiana");
 printf("druga zmiana"); 
 printf("trzecia zmiana");
+printf("czwarta zmiana");
  
   x=NULL;
  
