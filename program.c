@@ -8,6 +8,7 @@ int main()
 {
 
   int *x;
+printf("pierwsza zmiana");
  
  
   x=NULL;
