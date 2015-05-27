@@ -38,3 +38,4 @@ void add(int** px, int n, int new_elem)
   *px=nowa;
 } 
   //px to adres x z main
+  dahell!
