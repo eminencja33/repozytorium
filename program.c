@@ -13,6 +13,7 @@ printf("druga zmiana");
 printf("trzecia zmiana");
 printf("czwarta zmiana");
 printf("piata zmiana");
+printf("szosta zmiana");
  
   x=NULL;
  
