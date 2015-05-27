@@ -10,6 +10,7 @@ int main()
   int *x;
 printf("pierwsza zmiana");
 printf("druga zmiana"); 
+printf("trzecia zmiana");
  
   x=NULL;
  
